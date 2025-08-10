@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: money-api
-        image: malavika2609/money_api:0.0.1
+        image: username/money_api:0.0.1
         ports:
         - containerPort: 8000
         imagePullPolicy: Always
